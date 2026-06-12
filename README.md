@@ -149,43 +149,43 @@ Cloudinary Storage
 
 ## 🏠 Landing Page
 
-![Landing Page](.CareerBridge/assets/landing-page.png)
+![Landing Page](./CareerBridge/assets/landing-page.png)
 
 ---
 
 ## 🔑 Login Page
 
-![Login Page](.CareerBridge/assets/login-page.png)
+![Login Page](./CareerBridge/assets/login-page.png)
 
 ---
 
 ## 📝 Registration Page
 
-![Register Page](.CareerBridge/assets/register-page.png)
+![Register Page](./CareerBridge/assets/register-page.png)
 
 ---
 
 ## 💼 Jobs Page
 
-![Jobs Page](.CareerBridge/assets/jobs-page.png)
+![Jobs Page](./CareerBridge/assets/jobs-page.png)
 
 ---
 
 ## 👨‍💼 Applicant Dashboard
 
-![Applicant Dashboard](.CareerBridge/assets/applicant-dashboard.png)
+![Applicant Dashboard](./CareerBridge/assets/applicant-dashboard.png)
 
 ---
 
 ## 🏢 Recruiter Dashboard
 
-![Recruiter Dashboard](.CareerBridge/assets/recruiter-dashboard.jpeg)
+![Recruiter Dashboard](./CareerBridge/assets/recruiter-dashboard.jpeg)
 
 ---
 
 ## 📞 Contact Page
 
-![Contact Page](.CareerBridge/assets/contact-page.png)
+![Contact Page](./CareerBridge/assets/contact-page.png)
 
 ---
 
