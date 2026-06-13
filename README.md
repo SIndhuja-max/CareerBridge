@@ -12,9 +12,6 @@
 ## 🌐 Live Demo
 
 **Frontend:** https://career-bridge-snowy.vercel.app/
-
-**Backend API:** https://careerbridge-backend-94u7.onrender.com
-
 ---
 
 ## 📖 About The Project
