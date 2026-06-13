@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-**Frontend:** https://career-bridge-snowy.vercel.app/
+**Live Link** https://career-bridge-snowy.vercel.app/
 ---
 
 ## 📖 About The Project
